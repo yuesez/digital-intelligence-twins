@@ -27,8 +27,9 @@ RPC/目录是树莓派小车的控制驱动部分，以及树莓派小车与算�
 
 ## 训练算法
 项目中的目录ppo为算法文件
-算法是基于PPO算法进行了一定的调整
-
+算法是基于PPO算法进行了一定的调整  
+引用参考文献如下：
+[1] Schulman J ,  Wolski F ,  Dhariwal P , et al. Proximal Policy Optimization Algorithms[J].  2017.
 
 ## 实验效果
 
