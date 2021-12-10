@@ -11,5 +11,5 @@ https://www.raspberrypi.org/
 后续打算使用ROS作为仿真平台
 
 实现的效果如下
-<iframe src="//player.bilibili.com/player.html?bvid=BV1cr4y1D7p4&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1cr4y1D7p4/
 
